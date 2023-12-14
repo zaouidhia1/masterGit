@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>MAMS BURGER</title>
+    <link href="./favicon.burger.png" rel="icon" type="img/x-icon">
+
+</head>
+<body> <!--"The body of the web page"-->
+    <h1>Mams burger</h1>
+    <p>
+        Welcome to The Burger Joint Restaurant! We’ve got everything you’re looking for, from the Classic, to fusion flavors like the Kimchi, to the Veggie, for our vegetarian friends. We’re committed to serving delicious, fresh fare that will make you re-think how burgers should taste. Check out our menu for our variety of hand-crafted burgers and see why people come to us for the Best Burger in Houston.
+
+    </p>
+    <img src="IMAGE.1.jfif" alt="">
+    <video><source src="https://www.youtube.com/watch?v=rVCpzIzWDYw" type="video/mp4"> </video>
+    <body>
+        <section>
+            <p>
+             -The place where you can find happiness with a delicious burgers and hot dog 
+            </p>
+          <img src="burger.0.jpg" width="200" height="200">
+          <img src="burger.1.jpg" width="200" height="200">
+          <img src="burger.2.jpg" width="200" height="200">  
+        </section>
+        <h3>MOST SALES </h3>
+        <ol>
+        <li>Big mac </li>
+        <li>CLASIC HOT DOG</li>
+        <li>Beef burger</li>
+        </ol>
+        <div> 
+            <h2> OUR STAFF:</h2>
+        </div>
+        <section>
+            <img src="staff.burger.webp" alt="" height="200"
+        width="200">
+            <img src="staff.burger2.jfif" height="200"
+            width="200">
+        </section>
+        <section>
+            <h1> MENU:</h1>
+            <img src="menu.1.jpg" alt="">
+            <img src="menu.2.jpg">
+            <img src="menu.3.jpg" alt="">
+            <img src="menu.4.jpg" width="200" height="200">
+        </section>
+          <section>
+            <h1>A simple greeting! </h1>
+            <nav>
+                <ul>
+            <li>phone number: 0541936140 </li>
+            <li>contact us:mamsb1@gmail.com</li>
+            </nav>
+          </section>
+          
+             
+            
+            
+
+
+       
+        
+    >
+        
+            
+        
+    </body>
+    
+
+</body>
+</html>
